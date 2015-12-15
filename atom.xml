@@ -4,7 +4,7 @@
   <title><![CDATA[Keshav Bashyal]]></title>
   <link href="http://keshavbashyal.github.io/atom.xml" rel="self"/>
   <link href="http://keshavbashyal.github.io/"/>
-  <updated>2015-12-13T16:06:16-05:00</updated>
+  <updated>2015-12-14T23:27:40-05:00</updated>
   <id>http://keshavbashyal.github.io/</id>
   <author>
     <name><![CDATA[Keshav Bashyal]]></name>
@@ -12,5 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Lamda Architecture]]></title>
+    <link href="http://keshavbashyal.github.io/blog/2015/12/14/lamda-architecture/"/>
+    <updated>2015-12-14T20:46:35-05:00</updated>
+    <id>http://keshavbashyal.github.io/blog/2015/12/14/lamda-architecture</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Books That Inspire Me]]></title>
+    <link href="http://keshavbashyal.github.io/blog/2015/12/13/the-books-that-inspire-me/"/>
+    <updated>2015-12-13T16:11:43-05:00</updated>
+    <id>http://keshavbashyal.github.io/blog/2015/12/13/the-books-that-inspire-me</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
