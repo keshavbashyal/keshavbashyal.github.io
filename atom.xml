@@ -4,7 +4,7 @@
   <title><![CDATA[Keshav Bashyal]]></title>
   <link href="http://keshavbashyal.github.io/atom.xml" rel="self"/>
   <link href="http://keshavbashyal.github.io/"/>
-  <updated>2015-12-14T23:44:57-05:00</updated>
+  <updated>2015-12-15T08:26:47-05:00</updated>
   <id>http://keshavbashyal.github.io/</id>
   <author>
     <name><![CDATA[Keshav Bashyal]]></name>
@@ -18,7 +18,11 @@
     <link href="http://keshavbashyal.github.io/blog/2015/12/14/lamda-architecture/"/>
     <updated>2015-12-14T20:46:35-05:00</updated>
     <id>http://keshavbashyal.github.io/blog/2015/12/14/lamda-architecture</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Here is the link for the explanation of Lambda Architecture by Helena Edelson</p>
+
+<p>Error processing input, expected syntax: {% video url/to/video [url/to/video] [url/to/video] [width height] [url/to/poster] %}</p>
+
+<p>I will be adding more explanation to it.s</p>
 ]]></content>
   </entry>
   
