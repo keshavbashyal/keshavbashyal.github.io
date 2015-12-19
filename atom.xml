@@ -4,7 +4,7 @@
   <title><![CDATA[Keshav Bashyal]]></title>
   <link href="http://keshavbashyal.github.io/atom.xml" rel="self"/>
   <link href="http://keshavbashyal.github.io/"/>
-  <updated>2015-12-15T19:28:18-05:00</updated>
+  <updated>2015-12-19T10:13:00-05:00</updated>
   <id>http://keshavbashyal.github.io/</id>
   <author>
     <name><![CDATA[Keshav Bashyal]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Data Stream Algorithms]]></title>
+    <link href="http://keshavbashyal.github.io/blog/2015/12/19/data-stream-algorithms/"/>
+    <updated>2015-12-19T10:02:14-05:00</updated>
+    <id>http://keshavbashyal.github.io/blog/2015/12/19/data-stream-algorithms</id>
+    <content type="html"><![CDATA[<p>Data Stream Algorithms are used in the community for mining large scale real time data for analytics.</p>
+
+<p>The mainly used algorithms in Streaming applications are:</p>
+
+<ol>
+<li>Bloom Filter</li>
+<li>HyperLogLog</li>
+<li>Count-Min Sketch</li>
+</ol>
+
+
+<p>Here is the link where you can read more about streaming algorithms.</p>
+
+<p><a href="https://gist.github.com/keshavbashyal/8d71f33b3b35ec6eaba2">https://gist.github.com/keshavbashyal/8d71f33b3b35ec6eaba2</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Lamda Architecture]]></title>
@@ -34,7 +56,7 @@
     <link href="http://keshavbashyal.github.io/blog/2015/12/13/the-books-that-inspire-me/"/>
     <updated>2015-12-13T16:11:43-05:00</updated>
     <id>http://keshavbashyal.github.io/blog/2015/12/13/the-books-that-inspire-me</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Lately I havenot got much time to study books. But, I am planning to study as much book as possible.</p>
 ]]></content>
   </entry>
   
