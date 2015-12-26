@@ -4,7 +4,7 @@
   <title><![CDATA[Keshav Bashyal]]></title>
   <link href="http://keshavbashyal.github.io/atom.xml" rel="self"/>
   <link href="http://keshavbashyal.github.io/"/>
-  <updated>2015-12-20T21:50:19-05:00</updated>
+  <updated>2015-12-26T17:12:07-05:00</updated>
   <id>http://keshavbashyal.github.io/</id>
   <author>
     <name><![CDATA[Keshav Bashyal]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Some Important Streaming Algorithms by Ted Dunning]]></title>
+    <link href="http://keshavbashyal.github.io/blog/2015/12/26/some-important-streaming-algorithms-by-ted-dunning/"/>
+    <updated>2015-12-26T16:51:53-05:00</updated>
+    <id>http://keshavbashyal.github.io/blog/2015/12/26/some-important-streaming-algorithms-by-ted-dunning</id>
+    <content type="html"><![CDATA[<p>This post is about the algorithms discussed by Ted Dunning in Spark Summit 2015</p>
+
+<p>Algorithms are:</p>
+
+<ol>
+<li>Hashing and Sketching</li>
+<li>Hyper log log = count distinct</li>
+<li>Count min = count(s)</li>
+<li>Streaming k-means</li>
+<li>Quantiles via t-digest</li>
+</ol>
+
+
+<p>You can see the video from this link.</p>
+
+<iframe width="540" height="315" src="https://www.youtube.com/watch?v=lzHC8NQD3jQ frameborder="0" allowfullscreen></iframe>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Data Stream Algorithms]]></title>
