@@ -4,7 +4,7 @@
   <title><![CDATA[Keshav Bashyal]]></title>
   <link href="http://keshavbashyal.github.io/atom.xml" rel="self"/>
   <link href="http://keshavbashyal.github.io/"/>
-  <updated>2015-12-26T17:14:43-05:00</updated>
+  <updated>2015-12-26T17:58:18-05:00</updated>
   <id>http://keshavbashyal.github.io/</id>
   <author>
     <name><![CDATA[Keshav Bashyal]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Streaming K-means]]></title>
+    <link href="http://keshavbashyal.github.io/blog/2015/12/26/streaming-k-means/"/>
+    <updated>2015-12-26T17:28:38-05:00</updated>
+    <id>http://keshavbashyal.github.io/blog/2015/12/26/streaming-k-means</id>
+    <content type="html"><![CDATA[<p>Streaming K-means is algorithm with utilize the concept of forgetfulness to change the update rule in K-means algorithm.</p>
+
+<p>Here are the links where you can study more about Streaming k-means</p>
+
+<p>Spark MLLib
+<a href="http://spark.apache.org/docs/latest/mllib-clustering.html#streaming-k-means">http://spark.apache.org/docs/latest/mllib-clustering.html#streaming-k-means</a></p>
+
+<p>Databricks Streaming k-means blog by Jeremy Freeman
+<a href="https://databricks.com/blog/2015/01/28/introducing-streaming-k-means-in-spark-1-2.html">https://databricks.com/blog/2015/01/28/introducing-streaming-k-means-in-spark-1-2.html</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Some Important Streaming Algorithms by Ted Dunning]]></title>
