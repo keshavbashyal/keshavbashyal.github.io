@@ -4,7 +4,7 @@
   <title><![CDATA[Keshav Bashyal]]></title>
   <link href="http://keshavbashyal.github.io/atom.xml" rel="self"/>
   <link href="http://keshavbashyal.github.io/"/>
-  <updated>2015-12-26T17:12:07-05:00</updated>
+  <updated>2015-12-26T17:14:43-05:00</updated>
   <id>http://keshavbashyal.github.io/</id>
   <author>
     <name><![CDATA[Keshav Bashyal]]></name>
@@ -31,12 +31,7 @@
 </ol>
 
 
-<p>You can see the video from this link.</p>
-
-<iframe width="540" height="315" src="https://www.youtube.com/watch?v=lzHC8NQD3jQ frameborder="0" allowfullscreen></iframe>
-
-
-
+<p>You can see the video from this <a href="https://www.youtube.com/watch?v=lzHC8NQD3jQ">link.</a></p>
 ]]></content>
   </entry>
   
