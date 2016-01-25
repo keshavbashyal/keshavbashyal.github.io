@@ -4,7 +4,7 @@
   <title><![CDATA[Keshav Bashyal]]></title>
   <link href="http://keshavbashyal.github.io/atom.xml" rel="self"/>
   <link href="http://keshavbashyal.github.io/"/>
-  <updated>2016-01-24T19:35:55-05:00</updated>
+  <updated>2016-01-24T19:41:03-05:00</updated>
   <id>http://keshavbashyal.github.io/</id>
   <author>
     <name><![CDATA[Keshav Bashyal]]></name>
@@ -18,9 +18,9 @@
     <link href="http://keshavbashyal.github.io/blog/2016/01/24/tachyon-coprocessor/"/>
     <updated>2016-01-24T19:19:23-05:00</updated>
     <id>http://keshavbashyal.github.io/blog/2016/01/24/tachyon-coprocessor</id>
-    <content type="html"><![CDATA[<p>Tachyon is A Reliable Memory Centric Distributed Storage System developed by Berkeley AMPLab.</p>
+    <content type="html"><![CDATA[<p><a href="http://tachyon-project.org/">Tachyon </a> is A Reliable Memory Centric Distributed Storage System developed by Berkeley AMPLab.</p>
 
-<p>CoProcessor with Tachyon is the concept of utilizing this fast storage for processing rather than utilising some other computation engines.</p>
+<p><a href = "https://youtu.be/VKgBVsPvU_U?list=PLMpF-Q2WyoGudT3z-VPGs-6nnv45cod_R">CoProcessor </a>a>with Tachyon is the concept of utilizing this fast storage for processing rather than utilising some other computation engines.</p>
 
 <iframe src="http://www.slideshare.net/slideshow/embed_code/adatao/firstever-scalable-distributed-deep-learning-architecture-using-spark-tachyon " width="595" height="446" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen></iframe>
 
