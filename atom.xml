@@ -4,7 +4,7 @@
   <title><![CDATA[Keshav Bashyal]]></title>
   <link href="http://keshavbashyal.github.io/atom.xml" rel="self"/>
   <link href="http://keshavbashyal.github.io/"/>
-  <updated>2015-12-26T17:58:18-05:00</updated>
+  <updated>2016-01-24T19:26:14-05:00</updated>
   <id>http://keshavbashyal.github.io/</id>
   <author>
     <name><![CDATA[Keshav Bashyal]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tachyon CoProcessor]]></title>
+    <link href="http://keshavbashyal.github.io/blog/2016/01/24/tachyon-coprocessor/"/>
+    <updated>2016-01-24T19:19:23-05:00</updated>
+    <id>http://keshavbashyal.github.io/blog/2016/01/24/tachyon-coprocessor</id>
+    <content type="html"><![CDATA[<p>Tachyon is A Reliable Memory Centric Distributed Storage System developed by Berkeley AMPLab.</p>
+
+<p>CoProcessor with Tachyon is the concept of utilizing this fast storage for processing rather than utilising some other computation engines.</p>
+
+<p><a href="http://www.slideshare.net/adatao/firstever-scalable-distributed-deep-learning-architecture-using-spark-tachyon"> Slides by ADATAO </a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Streaming K-means]]></title>
